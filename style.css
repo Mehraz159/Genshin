@@ -28,7 +28,7 @@ img {
 
     margin: auto;
     text-align: center;
-    font-size: 5vh;
+    font-size: 3vw;
 
 
 }
@@ -43,7 +43,7 @@ img {
     justify-content: space-between;
     text-decoration: none;
     color: black;
-    height: 47vh;
+    height: 25vw;
 }
 
 .name {
